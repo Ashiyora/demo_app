@@ -1,1 +1,1 @@
-console.log('Hello IT-Student')//แสดงค่าเป็น text คล้าย printf
+console.log('Hello IT-Student')
